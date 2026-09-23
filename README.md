@@ -1,8 +1,8 @@
 # Tasklyst - Personal Task Manager
 
 **Project Code:** WST21-PM-2026-SF  
-**Student Name:**  
-**Course & Year:**  
+**Student Name: GUSTILO, JUAN MIGUEL C. **  
+**Course & Year:BSIT-2_SECTION 11**  
 **Database Used:** SQLite (Laravel-compatible; can be switched to MySQL in `.env`)
 
 Tasklyst is a focused Laravel application for managing personal tasks through a clean Blade interface.
